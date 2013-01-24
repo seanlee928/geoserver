@@ -5,7 +5,6 @@ target
 .project
 *.class
 *.pyc
-*.DS_Store
 
 
 # OS or Editor folders
