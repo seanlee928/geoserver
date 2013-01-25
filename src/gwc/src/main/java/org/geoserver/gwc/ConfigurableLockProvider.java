@@ -20,8 +20,8 @@ public class ConfigurableLockProvider implements LockProvider {
 
     @Override
     public Lock getLock(String lockKey) throws GeoWebCacheException {
-
-    	int x = 0;
+    	
+    	int x =7;
     	return delegate.getLock(lockKey);
     }
 
